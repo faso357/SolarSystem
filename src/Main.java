@@ -8,6 +8,7 @@ Sun sun = new Sun();
 sun.color="red";
 sun.temperature= "785785867";
 sun.heat="jhvhjfjhc";
+sun.shape="circle";
 
     }
 }
